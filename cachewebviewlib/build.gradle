@@ -24,4 +24,4 @@ dependencies {
     implementation 'com.squareup.okhttp3:okhttp:3.10.0'
 }
 
-apply from: './config/bintray.gradle'
+//apply from: './config/bintray.gradle'
